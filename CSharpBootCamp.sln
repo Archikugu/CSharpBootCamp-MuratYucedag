@@ -17,6 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lecture3", "Lecture3", "{E1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakingDecision", "Lecture3\MakingDecision\MakingDecision.csproj", "{C6E25815-62E5-4E2C-BE49-1539611E52CB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lecture4", "Lecture4", "{99FD9323-AE15-4C02-99AB-A47E35AC887C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Lecture4\Loops\Loops.csproj", "{C6B4DD0C-8739-4FE2-971E-CDD28D087AF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{C6E25815-62E5-4E2C-BE49-1539611E52CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6E25815-62E5-4E2C-BE49-1539611E52CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6E25815-62E5-4E2C-BE49-1539611E52CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B4DD0C-8739-4FE2-971E-CDD28D087AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B4DD0C-8739-4FE2-971E-CDD28D087AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B4DD0C-8739-4FE2-971E-CDD28D087AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B4DD0C-8739-4FE2-971E-CDD28D087AF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{1A395658-74BF-42D4-A5D6-155C54CF182B} = {4973330D-DF85-4753-ABE4-3420541B159A}
 		{E4D36148-B785-4B39-8112-1F59F74660BA} = {10709B2A-4999-4DD4-A16D-836AF0049DC1}
 		{C6E25815-62E5-4E2C-BE49-1539611E52CB} = {E12BA04C-4140-446F-9FE6-2A639D2CE627}
+		{C6B4DD0C-8739-4FE2-971E-CDD28D087AF1} = {99FD9323-AE15-4C02-99AB-A47E35AC887C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6AE835A-07AC-4045-AAB4-9512DAC7EC6E}
