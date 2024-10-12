@@ -25,6 +25,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lecture5", "Lecture5", "{AC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsWithStars", "Lecture5\LoopsWithStars\LoopsWithStars.csproj", "{C07A65FE-42D9-4EE5-8EC5-1939C4C12550}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lecture6", "Lecture6", "{CF87CC94-59A7-41BA-9A2D-0212D597E69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Lecture6\Arrays\Arrays.csproj", "{063F53D6-64C9-4297-AB7B-B0BFA32137A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +59,10 @@ Global
 		{C07A65FE-42D9-4EE5-8EC5-1939C4C12550}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C07A65FE-42D9-4EE5-8EC5-1939C4C12550}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C07A65FE-42D9-4EE5-8EC5-1939C4C12550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063F53D6-64C9-4297-AB7B-B0BFA32137A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063F53D6-64C9-4297-AB7B-B0BFA32137A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063F53D6-64C9-4297-AB7B-B0BFA32137A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063F53D6-64C9-4297-AB7B-B0BFA32137A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +74,7 @@ Global
 		{C6E25815-62E5-4E2C-BE49-1539611E52CB} = {E12BA04C-4140-446F-9FE6-2A639D2CE627}
 		{C6B4DD0C-8739-4FE2-971E-CDD28D087AF1} = {99FD9323-AE15-4C02-99AB-A47E35AC887C}
 		{C07A65FE-42D9-4EE5-8EC5-1939C4C12550} = {ACE4337B-B476-431E-8CC6-BBF20B1C11A0}
+		{063F53D6-64C9-4297-AB7B-B0BFA32137A6} = {CF87CC94-59A7-41BA-9A2D-0212D597E69C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6AE835A-07AC-4045-AAB4-9512DAC7EC6E}
