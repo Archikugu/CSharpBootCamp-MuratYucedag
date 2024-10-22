@@ -1,7 +1,6 @@
 # C# Bootcamp - Murat Yücedağ
 
 ## Lecture 1: Hello World & Basic Variables 📚💻
-----------------------------------------------------
 In this first lecture, we covered the foundational aspects of C# programming:
 
 - **Hello World**: 
@@ -18,7 +17,6 @@ This lecture served as an introduction to C# and console-based applications.
 ---
 
 ## Lecture 2: Data Types and Variables 📚💻
-----------------------------------------------------
 In this lecture, we explored various data types and variables in C#:
 
 - **Double Variables**: 
@@ -41,7 +39,6 @@ This lecture emphasized the importance of data types in programming.
 ---
 
 ## Lecture 3: Making Decisions 📚💻
-----------------------------------------------------
 In this lecture, we focused on decision-making structures in C#:
 
 - **If-Else Statements**: 
@@ -68,7 +65,6 @@ In this lecture, we focused on decision-making structures in C#:
 ---
 
 ## Lecture 4: Loops 📚💻
-----------------------------------------------------
 In this lecture, we focused on different looping structures in C#:
 
 - **For Loop**: 
@@ -96,7 +92,6 @@ This lecture provided a comprehensive understanding of loops and their applicati
 ---
 
 ## Lecture 5: Loops with Stars 📚💻
-----------------------------------------------------
 In this lecture, we explored various star patterns using loops in C#:
 
 - **Vertical Stars**: 
@@ -128,7 +123,6 @@ This lecture provided hands-on experience with nested loops and creative pattern
 ---
 
 ## Lecture 6: Arrays 📚💻
-----------------------------------------------------
 In this lecture, we delved into the basics of arrays in C# and explored various operations:
 
 - **Basic Array Initialization**: 
@@ -156,7 +150,6 @@ This lecture provided foundational knowledge on how to work with arrays, includi
 ---
 
 ## Lecture 7: Foreach Loop and Sample Exam Application 📚💻
-----------------------------------------------------
 In this lecture, we delved into the `foreach` loop in C# and developed a sample application for managing student exam scores:
 
 ### Foreach Loop Basics:
@@ -186,7 +179,6 @@ This lecture provided foundational knowledge on utilizing the `foreach` loop in 
 ---
 
 ## Lecture 8: Methods in C# 📚💻
-----------------------------------------------------
 In this lecture, we explored various types of methods in C# and their applications:
 
 ### Void Methods:
@@ -220,12 +212,7 @@ This lecture provided a comprehensive understanding of methods in C#, covering b
 
 ---
 
-Here’s a concise summary for **Lecture 9** that focuses on the ADO.NET concepts demonstrated in your database project:
-
----
-
 # Lecture 9: ADO.NET and Database Interaction 📚💻
-----------------------------------------------------
 In this lecture, we explored the basics of using ADO.NET for database operations in C#:
 
 ### Overview:
