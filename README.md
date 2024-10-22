@@ -1,7 +1,3 @@
-Here’s a polished version of all the lectures, formatted consistently for clarity and coherence:
-
----
-
 # C# Bootcamp - Murat Yücedağ
 
 ## Lecture 1: Hello World & Basic Variables 📚💻
