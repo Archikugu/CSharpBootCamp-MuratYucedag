@@ -1,6 +1,7 @@
 # C# Bootcamp - Murat Yücedağ
-
-## Lecture 1: Hello World & Basic Variables 📚💻
+---------------------------------------------------
+## [Lecture 1: Hello World & Basic Variables 📚💻]([URL](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture1))
+---------------------------------------------------
 In this first lecture, we covered the foundational aspects of C# programming:
 
 - **Hello World**: 
@@ -17,6 +18,7 @@ This lecture served as an introduction to C# and console-based applications.
 ---
 
 ## Lecture 2: Data Types and Variables 📚💻
+---------------------------------------------------
 In this lecture, we explored various data types and variables in C#:
 
 - **Double Variables**: 
@@ -39,6 +41,7 @@ This lecture emphasized the importance of data types in programming.
 ---
 
 ## Lecture 3: Making Decisions 📚💻
+---------------------------------------------------
 In this lecture, we focused on decision-making structures in C#:
 
 - **If-Else Statements**: 
@@ -65,6 +68,7 @@ In this lecture, we focused on decision-making structures in C#:
 ---
 
 ## Lecture 4: Loops 📚💻
+---------------------------------------------------
 In this lecture, we focused on different looping structures in C#:
 
 - **For Loop**: 
@@ -92,6 +96,7 @@ This lecture provided a comprehensive understanding of loops and their applicati
 ---
 
 ## Lecture 5: Loops with Stars 📚💻
+---------------------------------------------------
 In this lecture, we explored various star patterns using loops in C#:
 
 - **Vertical Stars**: 
@@ -123,6 +128,7 @@ This lecture provided hands-on experience with nested loops and creative pattern
 ---
 
 ## Lecture 6: Arrays 📚💻
+---------------------------------------------------
 In this lecture, we delved into the basics of arrays in C# and explored various operations:
 
 - **Basic Array Initialization**: 
@@ -150,6 +156,7 @@ This lecture provided foundational knowledge on how to work with arrays, includi
 ---
 
 ## Lecture 7: Foreach Loop and Sample Exam Application 📚💻
+---------------------------------------------------
 In this lecture, we delved into the `foreach` loop in C# and developed a sample application for managing student exam scores:
 
 ### Foreach Loop Basics:
@@ -179,6 +186,7 @@ This lecture provided foundational knowledge on utilizing the `foreach` loop in 
 ---
 
 ## Lecture 8: Methods in C# 📚💻
+---------------------------------------------------
 In this lecture, we explored various types of methods in C# and their applications:
 
 ### Void Methods:
@@ -212,21 +220,27 @@ This lecture provided a comprehensive understanding of methods in C#, covering b
 
 ---
 
-# Lecture 9: ADO.NET and Database Interaction 📚💻
-In this lecture, we explored the basics of using ADO.NET for database operations in C#:
+## Lecture 9: ADO.NET and Database Interaction 📚💻
+---------------------------------------------------
+In this lecture, we focused on using ADO.NET for interacting with SQL databases in C#, particularly for retrieving data and managing database connections.
 
 ### Overview:
-- Developed a console application to manage product-category information from a SQL database.
+- We developed a console application that connects to a SQL Server database to manage product-category information, demonstrating how to establish a connection, execute queries, and retrieve data.
 
 ### Key Components:
-1. **SqlConnection**: Established a connection to the SQL Server database using a connection string.
-2. **SqlCommand**: Used to execute SQL queries. In this case, we retrieved all records from the `TblCategories` table.
-3. **SqlDataAdapter**: Facilitated the retrieval of data into a `DataTable`, which acts as an in-memory representation of the data.
-4. **DataTable**: Stored the results of the SQL query, allowing iteration over the rows.
+- **SqlConnection**: 
+   - Established a connection to a SQL Server database using a connection string, which specifies the server address and database details.
+- **SqlCommand**: 
+   - Executed SQL queries, such as retrieving all records from the `TblCategories` table. This component handles commands sent to the database.
+- **SqlDataAdapter**: 
+   - Retrieved data from the database into a `DataTable`, which acts as an in-memory representation of the database's result set.
+- **DataTable**: 
+   - Stored the results of the SQL query. We then iterated over the rows to display the contents in the console.
 
-### Data Retrieval:
-- Closed the connection after executing the command and used nested loops to print the contents of the `DataTable`, displaying each row's data.
+### Data Retrieval Process:
+- After establishing the connection, we executed the query using `SqlCommand`, retrieved the data into the `DataTable` using `SqlDataAdapter`, and closed the connection once the operation was completed. 
+- A nested loop was used to iterate through the rows of the `DataTable` and display each record's details.
 
-This lecture emphasized how to connect to a database and retrieve data efficiently using ADO.NET, laying the groundwork for more complex database interactions.
+This lecture provided essential knowledge of database operations in C#, covering how to connect to a database, execute SQL queries, and retrieve data using ADO.NET. It serves as a foundation for more complex database interactions in future applications.
 
----
+--- 
