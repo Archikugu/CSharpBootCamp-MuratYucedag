@@ -17,7 +17,7 @@ This lecture served as an introduction to C# and console-based applications.
 
 ---
 
-## Lecture 2: Data Types and Variables 📚💻
+## [Lecture 2: Data Types and Variables 📚💻](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture2)
 ---------------------------------------------------
 In this lecture, we explored various data types and variables in C#:
 
@@ -40,7 +40,7 @@ This lecture emphasized the importance of data types in programming.
 
 ---
 
-## Lecture 3: Making Decisions 📚💻
+## [Lecture 3: Making Decisions 📚💻](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture3)
 ---------------------------------------------------
 In this lecture, we focused on decision-making structures in C#:
 
@@ -67,7 +67,7 @@ In this lecture, we focused on decision-making structures in C#:
 
 ---
 
-## Lecture 4: Loops 📚💻
+## [Lecture 4: Loops 📚💻](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture4)
 ---------------------------------------------------
 In this lecture, we focused on different looping structures in C#:
 
@@ -95,7 +95,7 @@ This lecture provided a comprehensive understanding of loops and their applicati
 
 ---
 
-## Lecture 5: Loops with Stars 📚💻
+## [Lecture 5: Loops with Stars 📚💻](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture5)
 ---------------------------------------------------
 In this lecture, we explored various star patterns using loops in C#:
 
@@ -127,7 +127,7 @@ This lecture provided hands-on experience with nested loops and creative pattern
 
 ---
 
-## Lecture 6: Arrays 📚💻
+## [Lecture 6: Arrays 📚💻](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture6)
 ---------------------------------------------------
 In this lecture, we delved into the basics of arrays in C# and explored various operations:
 
@@ -155,7 +155,7 @@ This lecture provided foundational knowledge on how to work with arrays, includi
 
 ---
 
-## Lecture 7: Foreach Loop and Sample Exam Application 📚💻
+## [Lecture 7: Foreach Loop and Sample Exam Application 📚💻](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture7)
 ---------------------------------------------------
 In this lecture, we delved into the `foreach` loop in C# and developed a sample application for managing student exam scores:
 
@@ -185,7 +185,7 @@ This lecture provided foundational knowledge on utilizing the `foreach` loop in 
 
 ---
 
-## Lecture 8: Methods in C# 📚💻
+## [Lecture 8: Methods in C# 📚💻](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture8)
 ---------------------------------------------------
 In this lecture, we explored various types of methods in C# and their applications:
 
@@ -220,7 +220,7 @@ This lecture provided a comprehensive understanding of methods in C#, covering b
 
 ---
 
-## Lecture 9: ADO.NET and Database Interaction 📚💻
+## [Lecture 9: ADO.NET and Database Interaction 📚💻](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture9)
 ---------------------------------------------------
 In this lecture, we focused on using ADO.NET for interacting with SQL databases in C#, particularly for retrieving data and managing database connections.
 
