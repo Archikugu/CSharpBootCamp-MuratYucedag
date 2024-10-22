@@ -1,6 +1,6 @@
 # C# Bootcamp - Murat Yücedağ
 ---------------------------------------------------
-## [Lecture 1: Hello World & Basic Variables 📚💻]([URL](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture1))
+## [Lecture 1: Hello World & Basic Variables 📚💻]([https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture1])
 ---------------------------------------------------
 In this first lecture, we covered the foundational aspects of C# programming:
 
