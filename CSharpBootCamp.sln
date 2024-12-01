@@ -41,6 +41,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lecture9", "Lecture9", "{F7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseProject", "Lecture9\DatabaseProject\DatabaseProject.csproj", "{F7DC239D-61C9-4733-913D-855335E56D8A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lecture10", "Lecture10", "{A3CAD5C1-879F-46C0-AF3A-DE971FE8280A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseCRUD", "Lecture10\DatabaseCRUD\DatabaseCRUD.csproj", "{18DA4D49-A017-4DD3-A27B-A0D4B181DA0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,10 @@ Global
 		{F7DC239D-61C9-4733-913D-855335E56D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7DC239D-61C9-4733-913D-855335E56D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7DC239D-61C9-4733-913D-855335E56D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DA4D49-A017-4DD3-A27B-A0D4B181DA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DA4D49-A017-4DD3-A27B-A0D4B181DA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DA4D49-A017-4DD3-A27B-A0D4B181DA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DA4D49-A017-4DD3-A27B-A0D4B181DA0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,6 +110,7 @@ Global
 		{21AA5C26-CE1C-4558-93A6-94C072EB6D53} = {44F35610-BED0-47A0-83CA-5DBA7880E690}
 		{8A540267-2993-461E-8D99-01AABB365E5E} = {D6454805-C146-44AE-9482-3B09EE448D48}
 		{F7DC239D-61C9-4733-913D-855335E56D8A} = {F7EC9D9E-31D5-48CB-9259-BCF95CAE2E82}
+		{18DA4D49-A017-4DD3-A27B-A0D4B181DA0B} = {A3CAD5C1-879F-46C0-AF3A-DE971FE8280A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6AE835A-07AC-4045-AAB4-9512DAC7EC6E}
