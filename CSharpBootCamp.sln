@@ -45,6 +45,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lecture10", "Lecture10", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseCRUD", "Lecture10\DatabaseCRUD\DatabaseCRUD.csproj", "{18DA4D49-A017-4DD3-A27B-A0D4B181DA0B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharpNTierArchitecture", "CSharpNTierArchitecture", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBootCamp.EntityLayer", "CSharpNTierArchitecture\CSharpBootCamp.EntityLayer\CSharpBootCamp.EntityLayer.csproj", "{392566F0-E960-4D67-B445-A2A82316F6E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBootCamp.DataAccessLayer", "CSharpNTierArchitecture\CSharpBootCamp.DataAccessLayer\CSharpBootCamp.DataAccessLayer.csproj", "{BEBFAD02-4DB0-4B98-BD36-BAF3709A5725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBootCamp.BusinessLayer", "CSharpNTierArchitecture\CSharpBootCamp.BusinessLayer\CSharpBootCamp.BusinessLayer.csproj", "{05CF1BC7-8D34-4AC5-856F-49C6AA8E6CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBootCamp.PresentationLayer", "CSharpNTierArchitecture\CSharpBootCamp.PresentationLayer\CSharpBootCamp.PresentationLayer.csproj", "{2CC05C34-DD3F-49A1-8405-AC22960C232F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +105,22 @@ Global
 		{18DA4D49-A017-4DD3-A27B-A0D4B181DA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18DA4D49-A017-4DD3-A27B-A0D4B181DA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18DA4D49-A017-4DD3-A27B-A0D4B181DA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392566F0-E960-4D67-B445-A2A82316F6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392566F0-E960-4D67-B445-A2A82316F6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392566F0-E960-4D67-B445-A2A82316F6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392566F0-E960-4D67-B445-A2A82316F6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEBFAD02-4DB0-4B98-BD36-BAF3709A5725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBFAD02-4DB0-4B98-BD36-BAF3709A5725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBFAD02-4DB0-4B98-BD36-BAF3709A5725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBFAD02-4DB0-4B98-BD36-BAF3709A5725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CF1BC7-8D34-4AC5-856F-49C6AA8E6CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CF1BC7-8D34-4AC5-856F-49C6AA8E6CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CF1BC7-8D34-4AC5-856F-49C6AA8E6CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CF1BC7-8D34-4AC5-856F-49C6AA8E6CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC05C34-DD3F-49A1-8405-AC22960C232F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC05C34-DD3F-49A1-8405-AC22960C232F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC05C34-DD3F-49A1-8405-AC22960C232F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC05C34-DD3F-49A1-8405-AC22960C232F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +137,10 @@ Global
 		{8A540267-2993-461E-8D99-01AABB365E5E} = {D6454805-C146-44AE-9482-3B09EE448D48}
 		{F7DC239D-61C9-4733-913D-855335E56D8A} = {F7EC9D9E-31D5-48CB-9259-BCF95CAE2E82}
 		{18DA4D49-A017-4DD3-A27B-A0D4B181DA0B} = {A3CAD5C1-879F-46C0-AF3A-DE971FE8280A}
+		{392566F0-E960-4D67-B445-A2A82316F6E1} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{BEBFAD02-4DB0-4B98-BD36-BAF3709A5725} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{05CF1BC7-8D34-4AC5-856F-49C6AA8E6CA7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{2CC05C34-DD3F-49A1-8405-AC22960C232F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6AE835A-07AC-4045-AAB4-9512DAC7EC6E}
