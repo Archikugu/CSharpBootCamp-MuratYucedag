@@ -239,3 +239,39 @@ In this lecture, we focused on ADO.NET for performing database operations in C#:
 This lecture provided essential knowledge on how to interact with databases in C#, covering connection management, executing commands, and retrieving data efficiently.
 
 ---
+
+## [Lecture 10: SQL CRUD Operations in C# with ADO.NET 📚💻](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/Lecture10/DatabaseCRUD) 
+---------------------------------------------------
+In this lecture, we explored advanced ADO.NET concepts, diving deeper into database operations and focusing on the practical implementation of CRUD operations within a C# application.
+
+---
+
+### Topics Covered:
+
+#### CRUD Operations 🔄:
+- **Create**:
+  - Inserted new records into the database using parameterized queries to prevent SQL Injection.
+- **Read**:
+  - Retrieved data from a database table and displayed it in the console using the `SqlCommand` and `SqlDataAdapter` classes.
+- **Update**:
+  - Modified existing records in the database with user-provided inputs.
+- **Delete**:
+  - Removed records from the database by specifying their IDs.
+
+#### Parameterized Queries:
+- Used parameters in SQL commands to enhance security and avoid SQL injection vulnerabilities.
+
+#### Data Handling:
+- Manipulated and displayed data using the `DataTable` class and its `Rows` property for structured processing.
+
+---
+
+### Example Project: Inventory Management System 🛒:
+- Enhanced the product management system with options to:
+  - Add, update, and delete products.
+  - View the list of products stored in the database.
+  
+This lecture provided practical insights into effectively managing database records in C# applications, focusing on security, modularity, and efficient data handling practices.
+
+---
+
