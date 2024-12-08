@@ -14,6 +14,6 @@ namespace CSharpBootCamp.EntityLayer.Concrete
         public string FullName => $"{CustomerName} {CustomerSurname.ToUpper()}";
         public string CustomerDistrict { get; set; }
         public string CustomerCity { get; set; }
-
+        public List<Order> Orders { get; set; }
     }
 }

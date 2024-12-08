@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CSharpBootCamp.EntityLayer.Concrete
 {
     //Field -> int x;
-    
+
     // Variable  ->
     //void Test()
     //{
@@ -19,5 +19,6 @@ namespace CSharpBootCamp.EntityLayer.Concrete
     {
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
+        public List<Product> Products { get; set; }
     }
 }

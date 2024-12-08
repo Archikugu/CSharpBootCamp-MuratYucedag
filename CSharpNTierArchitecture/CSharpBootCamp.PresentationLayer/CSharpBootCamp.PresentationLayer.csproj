@@ -76,5 +76,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CSharpBootCamp.BusinessLayer\CSharpBootCamp.BusinessLayer.csproj">
+      <Project>{05cf1bc7-8d34-4ac5-856f-49c6aa8e6ca7}</Project>
+      <Name>CSharpBootCamp.BusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
