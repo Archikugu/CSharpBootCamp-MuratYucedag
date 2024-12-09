@@ -29,5 +29,6 @@ namespace CSharpBootCamp.EntityFrameworkDbFirstTravelProject
         public virtual DbSet<Guides> Guides { get; set; }
         public virtual DbSet<Locations> Locations { get; set; }
         public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
+        public virtual DbSet<Admins> Admins { get; set; }
     }
 }
