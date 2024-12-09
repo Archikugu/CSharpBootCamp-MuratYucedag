@@ -1,6 +1,6 @@
 ﻿namespace CSharpBootCamp.EntityFrameworkDbFirstTravelProject
 {
-    partial class Form1
+    partial class FrmGuide
     {
         /// <summary>
         /// Required designer variable.
