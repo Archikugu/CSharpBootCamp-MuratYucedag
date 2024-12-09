@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBootCamp.BusinessLaye
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBootCamp.PresentationLayer", "CSharpNTierArchitecture\CSharpBootCamp.PresentationLayer\CSharpBootCamp.PresentationLayer.csproj", "{2CC05C34-DD3F-49A1-8405-AC22960C232F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBootCamp.EntityFrameworkDbFirstTravelProject", "CSharpNTierArchitecture\CSharpBootCamp.EntityFrameworkDbFirstTravelProject\CSharpBootCamp.EntityFrameworkDbFirstTravelProject.csproj", "{D52D0083-E820-4805-A157-05E34EBED335}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{2CC05C34-DD3F-49A1-8405-AC22960C232F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CC05C34-DD3F-49A1-8405-AC22960C232F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CC05C34-DD3F-49A1-8405-AC22960C232F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52D0083-E820-4805-A157-05E34EBED335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52D0083-E820-4805-A157-05E34EBED335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52D0083-E820-4805-A157-05E34EBED335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52D0083-E820-4805-A157-05E34EBED335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -141,6 +147,7 @@ Global
 		{BEBFAD02-4DB0-4B98-BD36-BAF3709A5725} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{05CF1BC7-8D34-4AC5-856F-49C6AA8E6CA7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{2CC05C34-DD3F-49A1-8405-AC22960C232F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{D52D0083-E820-4805-A157-05E34EBED335} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6AE835A-07AC-4045-AAB4-9512DAC7EC6E}
