@@ -275,3 +275,60 @@ This lecture provided practical insights into effectively managing database reco
 
 ---
 
+## [Lecture 11-17: C Sharp N Tier Architecture 📚💻](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/tree/master/CSharpNTierArchitecture)  
+---------------------------------------------------  
+In these lectures, we delved into **ADO.NET**, **Entity Framework**, and practical implementations of CRUD operations with LINQ queries. We also explored advanced features such as database-first and code-first approaches, modular development with generic repositories, and efficient data handling.  
+
+---
+
+### Topics Covered:  
+
+#### **CRUD Operations with ADO.NET and Entity Framework** 🔄:  
+- **Create**:  
+  - Inserted new records into the database securely using parameterized queries in ADO.NET and `DbSet.Add()` in Entity Framework.  
+- **Read**:  
+  - Retrieved data with ADO.NET commands and LINQ queries (`Where`, `Select`, `ToList`) in Entity Framework.  
+- **Update**:  
+  - Updated existing records by modifying properties and saving changes with `SaveChanges()`.  
+- **Delete**:  
+  - Removed entities using ADO.NET commands or `DbSet.Remove()` in Entity Framework after identifying them by primary keys.  
+
+#### **Generic Repository Pattern**:  
+- Created a reusable and modular data access layer for CRUD operations by implementing generic repositories with interfaces (`IGenericDal<T>`) for scalability.  
+- Divided operations into **read-only** and **write-only** repositories to support the CQRS pattern.  
+
+#### **LINQ and Entity Framework Querying**:  
+- Performed data analysis and filtering using LINQ methods such as `Count`, `Sum`, `Average`, `OrderBy`, and `GroupBy`.  
+- Built efficient queries to retrieve aggregated data and performed statistical calculations on database tables.  
+
+#### **Code-First vs. Database-First Approaches**:  
+- **Database-First**: Generated models and contexts from an existing database using **Entity Framework DbContext Scaffolding**.  
+- **Code-First**: Defined entity classes and relationships to generate database schemas programmatically.  
+
+---
+
+### Example Projects:  
+
+#### **Travel Management System 🛫**:  
+- Created advanced guide and location management features using Entity Framework and LINQ:  
+  - **Guide Management**:  
+    - List, add, update, and delete guides with a Windows Forms UI.  
+    - Implemented filtering and sorting with LINQ.  
+  - **Location Statistics**:  
+    - Aggregated data such as total locations, maximum capacity, and average price using LINQ methods.  
+
+#### **Customer Relationship Management (CRM) System 👤**:  
+- Designed an object-oriented entity structure:  
+  - `Customer` entity with full-name generation and associated orders.  
+  - `Order` and `Product` entities with navigation properties.  
+- Integrated CRUD operations with LINQ queries for seamless customer management.  
+
+---
+
+### Practical Outcomes:  
+1. **Enhanced Data Security**: Implemented parameterized queries and EF Core’s tracking features.  
+2. **Code Modularity**: Leveraged generic repositories and CQRS for scalability and maintainability.  
+3. **Real-Time Statistics**: Provided data insights with LINQ queries and EF Core aggregations.  
+4. **Development Flexibility**: Gained proficiency in both **Database-First** and **Code-First** approaches for different project needs.  
+
+These lectures provided hands-on experience in working with databases in C# applications, focusing on robust design, efficient querying, and scalability.
