@@ -332,3 +332,5 @@ In these lectures, we delved into **ADO.NET**, **Entity Framework**, and practic
 4. **Development Flexibility**: Gained proficiency in both **Database-First** and **Code-First** approaches for different project needs.  
 
 These lectures provided hands-on experience in working with databases in C# applications, focusing on robust design, efficient querying, and scalability.
+
+![Travel Management System Statistics](https://github.com/Archikugu/CSharpBootCamp-MuratYucedag/blob/master/CSharpNTierArchitecture/CSharpBootCamp.EntityFrameworkDbFirstTravelProject/ProjectImages/frmStatistics.png)
